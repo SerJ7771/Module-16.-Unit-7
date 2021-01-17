@@ -11,4 +11,3 @@ class Cats:
         return self.gender
 
     def getage(self):
-        return self.age
